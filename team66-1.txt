@@ -1,0 +1,15 @@
+The index/main PHP/HTML link is:
+https://cgi.sice.indiana.edu/~feligarc/i308/index.php
+
+The queries links are:
+https://cgi.sice.indiana.edu/~feligarc/i308/1a.php
+https://cgi.sice.indiana.edu/~feligarc/i308/2a.php
+https://cgi.sice.indiana.edu/~feligarc/i308/3a.php
+https://cgi.sice.indiana.edu/~feligarc/i308/4a.php
+https://cgi.sice.indiana.edu/~feligarc/i308/5c.php
+https://cgi.sice.indiana.edu/~feligarc/i308/6b.php
+https://cgi.sice.indiana.edu/~feligarc/i308/7a.php
+https://cgi.sice.indiana.edu/~feligarc/i308/8b.php
+https://cgi.sice.indiana.edu/~feligarc/i308/9a.php
+https://cgi.sice.indiana.edu/~feligarc/i308/additional1.php
+https://cgi.sice.indiana.edu/~feligarc/i308/additional.php
